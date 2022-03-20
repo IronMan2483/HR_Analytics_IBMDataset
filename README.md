@@ -28,10 +28,15 @@ Besides the reasons for attrition (including strategies to reduce the risk), I w
 ---
 ## __Setup__
 
-```
+````
 pyenv local 3.9.9
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 
-```
+pip install hvplot
+
+for version of jupyterlab<3.0:
+jupyter labextension install @pyviz/jupyterlab_pyviz
+
+````

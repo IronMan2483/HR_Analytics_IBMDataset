@@ -35,6 +35,8 @@ source .venv/bin/activate
 pip install --upgrade pip
 
 pip install hvplot
+pip install selenium
+from bokeh.io import export_png
 
 for version of jupyterlab<3.0:
 jupyter labextension install @pyviz/jupyterlab_pyviz

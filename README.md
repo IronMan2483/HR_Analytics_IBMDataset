@@ -2,7 +2,7 @@
 
 I used the dataset created by IBM to identify attrition. The dataset is available on Kaggle.
 
-Besides the reasons for attrition (including strategies to reduce the risk), I will also create a notebook about the diversity in this dataset (will follow) to give recommendations for especially the Recruiting process and to increase diversity in the company and departments.
+Besides the reasons for attrition (including strategies to reduce the risk), I also created a notebook about the diversity in this dataset to give recommendations for especially the Recruiting process and to increase diversity in the company and departments.
 
 ![Bruce](https://github.com/IronMan2483/HR_Analytics_IBMDataset/blob/main/images/Bruce_quitjob.jpg)
 
